@@ -1,0 +1,6 @@
+
+ Container's size - 0 
+
+ After shaker sort... 
+
+ Container's size - 0 

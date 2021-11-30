@@ -1,0 +1,46 @@
+
+ Container's size - 20 
+1: Parallelepiped, first edge - 50, second edge - 7, third edge - 8446, density - 1.300000 
+2: Parallelepiped, first edge - 30, second edge - 3, third edge - 42242, density - 0.785000 
+3: Parallelepiped, first edge - 4444, second edge - 34, third edge - 2, density - 1.228015 
+4: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.153690 
+5: Tetrahedron, edge - 59, density - 4.523636 
+6: Parallelepiped, first edge - 50, second edge - 7, third edge - 86, density - 0.556634 
+7: Parallelepiped, first edge - 35, second edge - 48424, third edge - 32, density - 0.330710 
+8: Tetrahedron, edge - 75, density - 0.419518 
+9: Sphere, radius - 2000, density - 100.096100 
+10: Tetrahedron, edge - 100000, density - 0.147311 
+11: Sphere, radius - 35, density - 3.124276 
+12: Parallelepiped, first edge - 44, second edge - 34, third edge - 2, density - 499.801544 
+13: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+14: Tetrahedron, edge - 54, density - 0.147311 
+15: Sphere, radius - 10000, density - 45.124275 
+16: Parallelepiped, first edge - 44, second edge - 10, third edge - 244, density - 1000.228027 
+17: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+18: Sphere, radius - 1000, density - 100.096100 
+19: Tetrahedron, edge - 54, density - 0.147311 
+20: Parallelepiped, first edge - 44, second edge - 34, third edge - 200, density - 499.801544 
+
+ After shaker sort... 
+
+ Container's size - 20 
+1: Tetrahedron, edge - 100000, density - 0.147311 
+2: Sphere, radius - 10000, density - 45.124275 
+3: Sphere, radius - 2000, density - 100.096100 
+4: Sphere, radius - 1000, density - 100.096100 
+5: Parallelepiped, first edge - 35, second edge - 48424, third edge - 32, density - 0.330710 
+6: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.153690 
+7: Parallelepiped, first edge - 30, second edge - 3, third edge - 42242, density - 0.785000 
+8: Parallelepiped, first edge - 50, second edge - 7, third edge - 8446, density - 1.300000 
+9: Parallelepiped, first edge - 4444, second edge - 34, third edge - 2, density - 1.228015 
+10: Parallelepiped, first edge - 44, second edge - 34, third edge - 200, density - 499.801544 
+11: Sphere, radius - 35, density - 3.124276 
+12: Parallelepiped, first edge - 44, second edge - 10, third edge - 244, density - 1000.228027 
+13: Tetrahedron, edge - 75, density - 0.419518 
+14: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+15: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+16: Parallelepiped, first edge - 50, second edge - 7, third edge - 86, density - 0.556634 
+17: Tetrahedron, edge - 59, density - 4.523636 
+18: Tetrahedron, edge - 54, density - 0.147311 
+19: Tetrahedron, edge - 54, density - 0.147311 
+20: Parallelepiped, first edge - 44, second edge - 34, third edge - 2, density - 499.801544 
