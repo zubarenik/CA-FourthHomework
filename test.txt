@@ -1,8 +1,0 @@
-
- Container's size - 1 
-1: Parallelepiped, first edge - 5534, second edge - 728, third edge - 8247, density - 0.850640 
-
- After shaker sort... 
-
- Container's size - 1 
-1: Parallelepiped, first edge - 5534, second edge - 728, third edge - 8247, density - 0.850640 
