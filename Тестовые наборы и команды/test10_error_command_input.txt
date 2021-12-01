@@ -1,1 +1,1 @@
-file not_exists test10_output.txt
+sh run.sh file not_exists test10_output.txt
